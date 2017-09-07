@@ -1,0 +1,11 @@
+"SOID","Description","Nr. Variants","% Variants"
+"SO:0001631","upstream_gene_variant",906,13.62
+"SO:0001624","3_prime_UTR_variant",318,4.78
+"SO:0001623","5_prime_UTR_variant",495,7.44
+"SO:0001589","frameshift_variant",341,5.12
+"SO:0001587","stop_gained",27,0.41
+"SO:0001583","missense_variant",1450,21.79
+"SO:0001575","splice_donor_variant",132,1.98
+"SO:0001574","splice_acceptor_variant",1035,15.55
+"SO:0001627","intron_variant",3571,53.67
+"SO:0001819","synonymous_variant",1394,20.95
