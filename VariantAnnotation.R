@@ -1,6 +1,6 @@
 ####################################################################################################################
 ####################################################################################################################
-#### Tempus bioinformatics technical challenge: Variant annotation
+#### Bioinformatics technical challenge: Variant annotation
 #### Author: Sunantha Sethuraman
 #### Date: 09/07/2017
 #### Use: Annotates the given vcf file with information from online resources
